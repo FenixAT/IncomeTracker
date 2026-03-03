@@ -1,0 +1,36 @@
+{
+  "starting_balance": 0.0,
+  "jobs": [
+    {
+      "id": "2a688e86290347c98700907410940b9d",
+      "name": "Coding",
+      "active": true
+    }
+  ],
+  "payments": [
+    {
+      "id": "322aeaaeff7440c99c9653dd02f170bc",
+      "job_id": "2a688e86290347c98700907410940b9d",
+      "date": "2026-03-03",
+      "amount": 100.0,
+      "note": "Example payment"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "6c5589424cc14b8ebef3d4a3de124446",
+      "date": "2026-03-03",
+      "amount": 58.0,
+      "category": "Fuel",
+      "note": "Example Expense"
+    }
+  ],
+  "wants": [
+    {
+      "id": "01f2e4b8a0924f70a6f890c88efccc87",
+      "name": "New chair (Example)",
+      "price": 500.0,
+      "purchased": false
+    }
+  ]
+}
